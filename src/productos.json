@@ -53,16 +53,5 @@
     "code": "abc127",
     "category": "Camisetas",
     "status": true
-  },
-  {
-    "title": "Musculosa Boca 2022",
-    "price": "2999",
-    "url": "https://res.cloudinary.com/dt0wab3c0/image/upload/v1669421372/FAG%20-%20Tienda%20futbolera/Musculosa_Boca_2022_qrzhq0.jpg",
-    "code": "abc129",
-    "stock": "10",
-    "category": "Musculosas",
-    "description": "Musculosa amarilla de Boca Juniors",
-    "status": true,
-    "id": 6
   }
 ]
